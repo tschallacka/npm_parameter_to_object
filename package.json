@@ -1,0 +1,22 @@
+{
+  "name": "@tschallacka/parameter_to_object",
+  "version": "1.0.0",
+  "description": "Turns any parameter to an object",
+  "main": "parameter_to_object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_parameter_to_object.git"
+  },
+  "keywords": [
+    "parameter"
+  ],
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_parameter_to_object/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_parameter_to_object#readme"
+}
